@@ -106,7 +106,7 @@
 				1A3361F91E782DEC006802E7 /* ScanningQRCodeView.swift */,
 			);
 			name = QRCode;
-			path = JMSQRCode;
+			path = Packages/JMSQRCode;
 			sourceTree = SOURCE_ROOT;
 		};
 		1A8884951E7590C900D97EA4 = {
